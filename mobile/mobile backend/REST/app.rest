@@ -1,0 +1,12 @@
+### Req GET
+
+GET http://localhost:3003/localhost:3003/tarefas
+
+### Res POST
+POST http://localhost:3003/tarefas
+Content-Type: application/json
+
+{
+  "descricao": "testeeeeeeeeeeeeeeee"
+}
+
